@@ -1,3 +1,6 @@
+Video do app 
+https://youtu.be/9myO_UtY4gc?si=rqKyktP6HU_f8L1z
+
 O AgroGestão é uma plataforma digital que permite o gerenciamento completo de uma fazenda, incluindo controle de rebanho, saúde animal, reprodução, financeiro e geração de notificações automáticas.
 
 O sistema foi projetado para funcionar tanto offline (mobile) quanto online (web), garantindo flexibilidade em ambientes rurais com acesso limitado à internet.
