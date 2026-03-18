@@ -9,7 +9,7 @@ O sistema foi projetado para funcionar tanto offline (mobile) quanto online (web
 
  Dashboard com visão geral da fazenda
 
- Controle de animais (peso, status, lote, raça)
+ Controle de animais (peso, status, lote e raça)
 
  Gestão de lotes e pastagens
 
